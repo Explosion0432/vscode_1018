@@ -118,9 +118,9 @@ h1{
 
 .card p{
     height: 150px;
-    color: #666;
+    color: #3f3f3f;
     font-weight: 100;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 1.5;
 }
 
@@ -146,7 +146,7 @@ h1{
     height: 500px;
     width: 800px;
     margin: 0 auto;
-    background-color: #333;
+    background-color: #d6c6c6;
     /* 文字對齊:置中 (對行內元素調整對齊)*/
     text-align: center;
     position: relative;
@@ -163,18 +163,19 @@ h1{
 #info h2{
     color: gold;
     margin-bottom: 30px;
-    letter-spacing: 2px;
+    letter-spacing: 10px;
 }
 
-ingo h6{
+#info h6{
     color: #666;
     margin-bottom: 30px;
     letter-spacing: 2px;
 }
 
-info p{
+#info p{
     text-align-last: left;
     line-height: 2;
+    letter-spacing: 15px;
 }
 
 /* 經營理念 */
